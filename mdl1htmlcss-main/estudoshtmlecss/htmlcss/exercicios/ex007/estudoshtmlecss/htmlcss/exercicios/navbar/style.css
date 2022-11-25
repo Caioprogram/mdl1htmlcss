@@ -1,0 +1,31 @@
+*{
+padding:0;
+margin:0;
+}
+header {
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p3/1849553-fundo-ouro-moderno-gratis-vetor.jpg")
+}
+
+body{
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p3/1849553-fundo-ouro-moderno-gratis-vetor.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+
+
+.container{
+    text-align: center;
+    justify-content:center;
+    display:flex;
+    height: ;
+    width: ;
+}
+
+.teste{
+    text-align: top left;
+    display:flex;
+    height:;
+    width:;
+}
